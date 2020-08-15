@@ -1,5 +1,7 @@
 ## Free TON Wiki Engine Setup ##
 
+![Free TON Wiki Logo](https://i.ibb.co/bRSkwp2/Free-TON-Wiki-Logo-Blue-200x155.png)
+
 This describes the technical configuration and setup of the [Free TON Wiki](https://freeton.wiki) website so that the **Free TON** community can contribute to the technical support of this encyclopedia.
 
 **Free TON Wiki** uses the [Dokuwiki](https://www.dokuwiki.org) engine and some plugins:
