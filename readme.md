@@ -13,6 +13,7 @@ This describes the technical configuration and setup of the [Free TON Wiki](http
 * [Wrap Plugin](https://www.dokuwiki.org/plugin:wrap)
 * [Video Share Plugin](https://www.dokuwiki.org/plugin:vshare)
 * [OrphansWanted Plugin](https://www.dokuwiki.org/plugin:orphanswanted)
+* [CAPTCHA Plugin](https://www.dokuwiki.org/plugin:captcha)
 
 The main settings are located in the file `/conf/local.php`. Some parameter values have been hidden for security reasons.
 
